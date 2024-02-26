@@ -11,4 +11,8 @@ else:
 
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image of Yaktocat](https://i.pinimg.com/736x/42/2c/50/422c503852105768f9989c68a5b6ce9b.jpg)
